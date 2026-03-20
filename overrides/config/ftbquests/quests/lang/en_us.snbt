@@ -19,9 +19,11 @@
 	chapter.51A8F6D0383FA895.title: "Challenges"
 	chapter.52805200DB691919.title: "Chapter 1: A New Beginning"
 	chapter.5304A58BFD70836D.title: "Create"
+	chapter.58F4A41A1BD9944F.title: "Dimensions"
 	chapter.646C49F0E98F631C.title: "Chapter 3: Nether"
 	chapter.664F9EC033517D41.title: "Chapter 5: Going Deeper"
 	chapter.6FFABDFD87AB00E7.title: "Immersive Engineering"
+	chapter.7B0B8A04FC5A314D.title: "Bosses"
 	chapter.7C8FE622908925D0.title: "Applied Energistics 2"
 	chapter_group.131C2868EBD0FC7F.title: "Technology"
 	chapter_group.2A5D074FFC415AEC.title: "The Basics"
@@ -32,33 +34,49 @@
 	chapter_group.6FCD6CD6E3B683F5.title: "Achievements"
 	quest.02CB075775B6AD52.title: "Minishroom"
 	quest.043573ED949BECB2.quest_desc: ["Welcome to the Stoage chapter! There are tons of storage options that are available in this modpack."]
+	quest.0D95EEE56AB91A43.quest_desc: ["&lOops. Looks like you died somehow.&r"]
 	quest.0D95EEE56AB91A43.title: "Died to Skill Issue"
 	quest.1070FE1B2649ED66.title: "Welcome To Oritech!"
 	quest.23E53C7D1FCCDD9E.title: "Snow Queen"
+	quest.25588339CBB18A48.quest_desc: ["It's really easy to make molten steel. Just throw in coal and iron ingot to produce steel"]
+	quest.25588339CBB18A48.quest_subtitle: "Steel Production"
+	quest.25588339CBB18A48.title: "Molten Steel"
+	quest.2567F1709375C3C5.quest_subtitle: "Double your output!"
+	quest.2567F1709375C3C5.title: "Simple Smeltry Setup"
 	quest.29E1583BD397FE70.title: "Alpha Yeti"
 	quest.2A19A8B453EE3AA3.title: "Defeat the Ender Dragon Pt2?"
 	quest.2AB3005DB8AAA61B.title: "Hydra"
 	quest.2DCCC1C463471165.quest_desc: ["You only need to defeat 12 of the 16 bosses to enter The End. If you ever lose an eye, it will cost you 10 levels to replace it."]
+	quest.2FB0C3CFF2700DB8.quest_desc: ["Better defense than diamond. A note, netherite armor will be used for a lot of the better armor later in the pack"]
+	quest.2FB0C3CFF2700DB8.title: "&cBasic Survival Part III"
 	quest.314F27CFAB6AC6C3.title: "Magical Map of the Twilight Forest"
 	quest.321BE79B988D7AC1.quest_desc: ["Hello there friend. This is Shiny's Awesome Modpack!"]
 	quest.321BE79B988D7AC1.title: "Welcome"
 	quest.36D8CF803CD1C83A.title: "Knight Phantom"
+	quest.376F4A768C6A17CF.quest_subtitle: "Get your first diamond"
+	quest.376F4A768C6A17CF.title: "DIAMONDS?!"
 	quest.39C18383B6135B55.title: "Giant's Cloud"
 	quest.3CEFE6DE9218A829.quest_desc: [
 		"Craft a full set of &6Wooden Armour"
 		""
 		"I think you need a little protection. Seriously, this is ideally better than leather. Chop chop!"
 	]
-	quest.3CEFE6DE9218A829.title: "Basic Armour &a(seriously craft it)"
+	quest.3CEFE6DE9218A829.title: "Basic Survival Part I &a(seriously craft it)"
+	quest.3D28FC85BC56A521.title: "Making Fire Bricks"
+	quest.3F016FA9CAF0B951.quest_desc: ["Good thing all your items are stored in a grave! This modpack is using Epitaphs mod."]
+	quest.3F016FA9CAF0B951.quest_subtitle: "GRAVESTONE!"
 	quest.3F016FA9CAF0B951.title: "It's your gravestone!"
 	quest.49BF5D9C5C1D14F1.title: "Final Castle"
+	quest.4C45EEAE3C7A412E.quest_desc: ["You must achieve the prerequisites before accessing the Nether Dimension. Otherwise, you'll get denied!"]
 	quest.51CDCAE4736893A1.quest_desc: ["I wanted to incorperate these dimensions as a progression but I do not have any experience with them. If you never been to these dimensions, I recommend visiting them and experiencing what these custom dimensions have to offer!"]
 	quest.56CC4D63313E1E86.title: "Defeat Ignis"
 	quest.57F0537684B307E4.title: "Naga"
-	quest.5B36DA95D567A462.quest_desc: ["You will need to make sure you are holding a specific item when entering the Nether. Also, you must defeat the Twilight Final final boss before being able to progress to the Nether."]
+	quest.5807BE9F854E04C0.quest_desc: ["See the End Progression to view all the eyes you have currently collected."]
 	quest.5CF89BD17745E712.title: "Troll's Cave"
 	quest.5DC54FF3893BF798.title: "Ur-Ghast"
+	quest.5EDA9EE840DC72E2.title: "&bBasic Survival Part II"
 	quest.60F2287AA77A6B65.title: "Lich"
+	quest.61707A2ED6BD53DB.quest_subtitle: "Cast them ingots awayt!"
 	quest.69A58CD42A9E2DFC.title: "End City"
 	quest.6C3AFA58986D1785.quest_desc: [""]
 	quest.6D752D7150C5253C.quest_desc: [
@@ -69,24 +87,39 @@
 	]
 	quest.6D752D7150C5253C.title: "The Twilight Forest"
 	quest.7633CF10984465A1.quest_desc: ["These two items are used in various crafting recipes"]
+	quest.772D3B613376231C.quest_desc: ["Any Minecraft flowers will do."]
+	quest.772D3B613376231C.quest_subtitle: "Lovely"
 	task.08B17E2A7DA36DCB.title: "Defeat the Maledictus"
+	task.0A95212173A95D79.title: "See Boss Chapter"
+	task.10B8E5E5AF97CD96.title: "Find The Underworld Knight"
 	task.18A88F07777EC3B9.title: "The Deeper Down"
 	task.19F86692B24A0E84.title: "Enter the Lich's Tower"
+	task.1A6C561E0AA32F2E.title: "Don't Count Your Moas"
 	task.1C9F84F14ACF60FB.title: "Defeat the Ender Dragon"
+	task.1F978E3CD3313150.title: "Beat the Gold Dungeon"
+	task.2152AF3371211140.title: "test"
+	task.220B502B0FCD9DB4.title: "How to Access The Nether Dimension"
+	task.224D501996D6FE7F.title: "Any #minecraft:flowers"
+	task.2295861BA7A8B6D5.title: "Ride the Black Moa"
+	task.2F96791CDE59EFA1.title: "Beat the Bronze Dungeon"
+	task.3106BB511CC1D87F.title: "Ancient Debris"
 	task.31C481E93BF75AF5.title: "Defeat the Infernal Dragon"
 	task.31EFD0A21EEA1608.title: "Defeat the Harbinger"
 	task.33CED10B051A0D4B.title: "Defeat Scylla"
 	task.3D49F928A22A6D24.title: "Visit the Nether"
 	task.41518E9C09FDE0DD.title: "Defeat the Underworld Knight"
 	task.43387CAD2554C424.title: "Yeti's Cave"
+	task.45B8A003723FFC26.title: "Collect flowers"
 	task.45BE21769F6F2148.title: "Defeat The Yeti"
 	task.49AF099BFE7508A8.title: "More Dimensions?"
 	task.4AA57D50368ACC11.title: "Naga"
 	task.4B7D6BDDBCB6FC75.title: "Welcome"
 	task.50449755AF28A897.title: "Defeat The Leviathan"
 	task.5352792BF48E7A96.title: "How to Visit the Nether"
+	task.55573B0B6840B2AF.title: "Beat the Silver Dungeon"
 	task.5C3E7D34292557AA.title: "Visit the End"
 	task.5EDEAA9228995D2C.title: "Naga Courtyard"
+	task.5F0B4D257BF96339.title: "Find the Bastion"
 	task.608190AC44D0689C.title: "A Brand New World"
 	task.62B26DEFD59C3E00.title: "Cataclysm's Dimensions!"
 	task.62C0D32D3346CF54.title: "Info"
@@ -95,6 +128,8 @@
 	task.6ED667CDA6B9AE0D.title: "Defeat the Sandworm"
 	task.71953E0DDBBCD92A.title: "Defeat the Ancient Remnant"
 	task.72D229B7096B5C84.title: "Defeat the Netherite Monstrosity"
+	task.76CD659AADFAF38A.title: "Bounce on the Blue Aercloud"
+	task.77138AB78CE48083.title: "... Until They Hatch!"
 	task.779DAFBBEB892F7B.title: "Visit Twilight Forest"
 	task.7E2AEB1B8E7871D2.title: "Knight's Stronghold"
 	task.7E48EC4B7DFB8318.title: "Visit the Otherside"

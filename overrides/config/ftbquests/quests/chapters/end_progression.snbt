@@ -3,6 +3,9 @@
 	default_quest_shape: ""
 	filename: "end_progression"
 	group: "69C66C6408A97599"
+	icon: {
+		id: "pastel:perturbed_eye"
+	}
 	id: "4D493540DD99DAC8"
 	order_index: 1
 	quest_links: [ ]

@@ -11,6 +11,7 @@
 	quest_links: [ ]
 	quests: [
 		{
+			dependencies: ["4BD4592C741FC0F9"]
 			id: "6D752D7150C5253C"
 			tasks: [{
 				dimension: "twilightforest:twilight_forest"

@@ -3,17 +3,140 @@
 	default_quest_shape: ""
 	filename: "chapter_4_to_the_skies"
 	group: "33F828F57A04EB35"
+	icon: {
+		id: "aether:aether_portal_frame"
+	}
 	id: "37C8384647C2943F"
 	order_index: 3
 	quest_links: [ ]
-	quests: [{
-		id: "1621379C0307EAAD"
-		tasks: [{
-			dimension: "aether:the_aether"
-			id: "6AB462FC0DA3269B"
-			type: "dimension"
-		}]
-		x: 0.5d
-		y: 0.0d
-	}]
+	quests: [
+		{
+			dependencies: [
+				"6AFCB2A00B5DEFAF"
+				"201263AEA460F43B"
+			]
+			id: "1621379C0307EAAD"
+			tasks: [{
+				dimension: "aether:the_aether"
+				id: "6AB462FC0DA3269B"
+				type: "dimension"
+			}]
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			id: "6AFCB2A00B5DEFAF"
+			tasks: [{
+				advancement: "block_factorys_bosses:kill_underworld_knight"
+				criterion: ""
+				id: "4247044F0235C1EE"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5FA4F887ADAE89BA"]
+			id: "6891CFCE0057E456"
+			tasks: [{
+				advancement: "aether:gold_dungeon"
+				criterion: ""
+				id: "1F978E3CD3313150"
+				type: "advancement"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1621379C0307EAAD"]
+			id: "5C2FDC8DE5D55A64"
+			tasks: [{
+				advancement: "aether:bronze_dungeon"
+				criterion: ""
+				id: "2F96791CDE59EFA1"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5C2FDC8DE5D55A64"]
+			id: "5FA4F887ADAE89BA"
+			tasks: [{
+				advancement: "aether:silver_dungeon"
+				criterion: ""
+				id: "55573B0B6840B2AF"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1621379C0307EAAD"]
+			hide_dependency_lines: true
+			id: "32DEAF82035DD581"
+			optional: true
+			tasks: [{
+				advancement: "aether:black_moa"
+				criterion: ""
+				id: "2295861BA7A8B6D5"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1621379C0307EAAD"]
+			hide_dependency_lines: true
+			id: "5AEA3F1CC10E92B2"
+			tasks: [{
+				advancement: "aether:blue_aercloud"
+				criterion: ""
+				id: "76CD659AADFAF38A"
+				optional_task: true
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1621379C0307EAAD"]
+			hide_dependency_lines: true
+			id: "2B591C2CF7C2FC04"
+			tasks: [{
+				advancement: "aether:incubate_moa"
+				criterion: ""
+				id: "77138AB78CE48083"
+				optional_task: true
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1621379C0307EAAD"]
+			hide_dependency_lines: true
+			id: "1CD4DB187C2078FA"
+			tasks: [{
+				advancement: "aether:obtain_egg"
+				criterion: ""
+				id: "1A6C561E0AA32F2E"
+				optional_task: true
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["33022922F65249B0"]
+			id: "201263AEA460F43B"
+			tasks: [{
+				id: "3F1C7E2BB3DE6B83"
+				item: { count: 1, id: "minecraft:netherite_upgrade_smithing_template" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+	]
 }
